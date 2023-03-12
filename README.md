@@ -1,1 +1,1 @@
-# Reconfigurable_PIC
+# Reconfigurable PIC
